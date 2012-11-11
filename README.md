@@ -1,0 +1,1 @@
+For details see <http://andytaylor.me/2011/07/09/simple-2d-dock-modification/>
